@@ -8,3 +8,7 @@ body{
 {
     border: 1px solid;
 }
+#cabecera{
+    background:slateblue;
+    color: white;
+}
