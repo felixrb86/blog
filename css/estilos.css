@@ -1,5 +1,10 @@
 body{
-    color:deepskyblue;
+    color: gray;
     text-align: center;
     font-family: Arial;
+}
+
+#container
+{
+    border: 1px solid;
 }
